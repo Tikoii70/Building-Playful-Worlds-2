@@ -12,9 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Menutest.unity
     guid: 556c4b7edc41641419b9f25be0d695eb
   - enabled: 1
+    path: Assets/Scenes/Main_remake.unity
+    guid: 70cbcfc6c807f634da0e5f9add04162b
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 1a63b51a398093847bdba30f4df66c4b
   - enabled: 1
     path: Assets/Scenes/Room.unity
     guid: b3425e9a04a6c0e4fa78844485dbafa7
+  - enabled: 1
+    path: Assets/Scenes/Room_Remake.unity
+    guid: 653b3d75bef661c4383642fde0d4ef78
   m_configObjects: {}
